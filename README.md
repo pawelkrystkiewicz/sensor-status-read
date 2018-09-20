@@ -1,7 +1,7 @@
 Sensor status read
 ======
-This repo holds solution to following problem:
-_Extract status from XML file fetch by GET method from remote sensor._
+This repo holds solution to following problem:  
+_Extract status from XML file fetched with GET method from remote sensor._  
 Given were:
   * Sensors' MAC adresses,
   * URL to sensors' hub,
